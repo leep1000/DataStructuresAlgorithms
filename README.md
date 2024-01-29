@@ -12,18 +12,17 @@ The course is designed to provide a comprehensive introduction to the key concep
 
 Each folder in this repository corresponds to a specific week or topic in the course. Inside these folders, you'll find my solutions to the various exercises and assignments given during the course.
 
-```plaintext
 repository-root/
 │
 ├── Week1/
-│   ├── Exercise1.md
-│   ├── Exercise2.md
-│   └── ...
+│ ├── Exercise1.md
+│ ├── Exercise2.md
+│ └── ...
 │
 ├── Week2/
-│   ├── Exercise1.md
-│   ├── Exercise2.md
-│   └── ...
+│ ├── Exercise1.md
+│ ├── Exercise2.md
+│ └── ...
 │
 └── ...
 
