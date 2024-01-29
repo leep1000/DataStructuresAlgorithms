@@ -26,10 +26,6 @@ While this repository is primarily for my personal learning and documentation, I
 
 These solutions are my own and are meant to serve as a reference. Please adhere to the University of Helsinki's academic policies and avoid plagiarism.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
 ## Contact
 
 If you have any questions or would like to connect, please feel free to reach out to me.
